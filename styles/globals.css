@@ -1,0 +1,81 @@
+/* src/styles/globals.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary-color: #110e1a;
+  --secondary-gradient-from: rgb(217, 70, 239);
+  --secondary-gradient-to: rgb(147, 51, 234);
+  --secondary-hover-from: rgb(192, 38, 211);
+  --secondary-hover-to: rgb(126, 34, 206);
+}
+
+body {
+  background-color: var(--primary-color);
+  color: white;
+  font-family: "Inter", sans-serif;
+  overflow-x: hidden;
+}
+
+.btn-gradient {
+  @apply bg-gradient-to-r from-fuchsia-500 to-purple-600 hover:from-fuchsia-600 hover:to-purple-700 text-white;
+}
+
+.sidebar-item {
+  @apply flex items-center space-x-2 px-4 py-3 rounded-lg transition-all duration-200;
+}
+
+.sidebar-item.active {
+  @apply bg-gradient-to-r from-fuchsia-500 to-purple-600;
+}
+
+.sidebar-item:not(.active):hover {
+  @apply bg-gray-800;
+}
+
+.card {
+  @apply bg-gray-900 rounded-xl p-6 shadow-lg;
+}
+
+/* Responsive Card Grid */
+.responsive-grid {
+  @apply grid gap-4;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+}
+
+/* Mobile-first Padding Adjustments */
+@media (max-width: 640px) {
+  .card {
+    @apply p-4;
+  }
+
+  .responsive-section {
+    @apply px-3 py-4;
+  }
+}
+
+/* Fix for mobile overflow issues */
+.overflow-fix {
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+/* Make tables responsive */
+.responsive-table {
+  @apply w-full overflow-x-auto;
+}
+
+.responsive-table table {
+  @apply min-w-full;
+}
+
+/* Accessible focus styles */
+:focus {
+  /* @apply outline-none ring-2 ring-fuchsia-500; */
+}
+
+/* Transition for menus and pop-ups */
+.menu-transition {
+  @apply transition-all duration-200 ease-in-out;
+}
