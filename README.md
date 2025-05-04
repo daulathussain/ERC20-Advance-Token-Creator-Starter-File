@@ -1,6 +1,6 @@
-# Deploy Your Own ERC20 Token in Minutes
+# Deploy Create Your ERC20 Advance Token in Minutes
 
-Build & Deploy Your Own ERC20 Token in Minutes | Ethereum, BNB, Polygon, Base + Testnets
+Build & Deploy Create Your ERC20 Advance Token in Minutes | Ethereum, BNB, Polygon, Base + Testnets
 
 Launch your custom ERC20 token effortlessly across multiple blockchains including Ethereum, Binance Smart Chain (BNB), Polygon, Base, and testnets. In this step-by-step tutorial, you'll learn how to write a secure ERC20 smart contract using Solidity and deploy it using a modern Next.js frontend. Whether you're creating a token for a dApp, community, or testing purposes, this guide walks you through everything—from coding and compiling your contract to deploying it on your chosen network. No prior blockchain experience required—perfect for beginners and pros alike.
 
@@ -8,7 +8,7 @@ Launch your custom ERC20 token effortlessly across multiple blockchains includin
 ✅ Integrate Wagmi for seamless Web3 interactions
 ✅ Deploy the smart contract and frontend
 
-Perfect for Web3 developers looking to create an advanced erc20 token creator platform. Don't forget to like, subscribe, and hit the bell icon for more blockchain development content! 🚀💰
+Perfect for Web3 developers looking to create an advance erc20 token creator platform. Don't forget to like, subscribe, and hit the bell icon for more blockchain development content! 🚀💰
 
 ## Project Overview
 
@@ -18,7 +18,7 @@ Perfect for Web3 developers looking to create an advanced erc20 token creator pl
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
-- [Final Source Code]()
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-and-deploy-your-own-erc20-advance-token-in-minutes-or-ethereum-bnb-polygon-base-+-testnets)
 
 #### Setup Video
 
@@ -32,11 +32,20 @@ Kindly follow the following Instructions to run the project in your system and i
   URL: https://www.hostg.xyz/aff_c?offer_id=6&aff_id=139422
 ```
 
+#### WATCH THIS ERC20 TOKEN CREATOR COMPLETE PROJECT
+
+```
+  TITLE: ERC20 TOKEN CREATOR
+  SOURCE CODE : https://www.theblockchaincoders.com/sourceCode/erc20-token-creator-online-tool
+  COMPLETE PROJECT: https://youtu.be/UuZUMXT_dQo
+  FINAL CODE SETUP: https://youtu.be/U72vty8dBvg?si=hWq_fq0eYf4Ezu24
+```
+
 #### SETUP AND CODE
 
 ```
   WATCH: Setup & Demo Of Project
-  Code:
+  Code: https://www.theblockchaincoders.com/sourceCode/build-and-deploy-your-own-erc20-advance-token-in-minutes-or-ethereum-bnb-polygon-base-+-testnets
   URL:
 ```
 
@@ -66,7 +75,7 @@ If you download the final source code then you can follow the following instruct
 
 ```
   GET: FINAL SOURCE CODE
-  URL:
+  URL: https://www.theblockchaincoders.com/sourceCode/build-and-deploy-your-own-erc20-advance-token-in-minutes-or-ethereum-bnb-polygon-base-+-testnets
   SETUP VIDEO:
 ```
 
