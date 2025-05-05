@@ -22,7 +22,7 @@ Kindly follow the following Instructions to run the project in your system and i
 
 #### Setup Video
 
-- [Final Code Setup video]()
+- [Final Code Setup video](https://youtu.be/HLQttFxYfKk?si=s09pSvw7oQfyqWHB)
 
 #### Deploying Dapp
 
@@ -46,7 +46,7 @@ Kindly follow the following Instructions to run the project in your system and i
 ```
   WATCH: Setup & Demo Of Project
   Code: https://www.theblockchaincoders.com/sourceCode/build-and-deploy-your-own-erc20-advance-token-in-minutes-or-ethereum-bnb-polygon-base-+-testnets
-  URL:
+  VIDEO: https://youtu.be/HLQttFxYfKk?si=s09pSvw7oQfyqWHB
 ```
 
 #### Install Vs Code Editor
@@ -76,7 +76,7 @@ If you download the final source code then you can follow the following instruct
 ```
   GET: FINAL SOURCE CODE
   URL: https://www.theblockchaincoders.com/sourceCode/build-and-deploy-your-own-erc20-advance-token-in-minutes-or-ethereum-bnb-polygon-base-+-testnets
-  SETUP VIDEO:
+  SETUP VIDEO: https://youtu.be/HLQttFxYfKk?si=s09pSvw7oQfyqWHB
 ```
 
 #### Install Vs Code Editor
